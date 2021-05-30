@@ -1,0 +1,10 @@
+﻿  Lab9.2.cpp
+C:\Users\Oleg\source\repos\Lab9.2\Lab9.2\Lab9.2.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Oleg\source\repos\Lab9.2\Lab9.2\Lab9.2.cpp(140,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.2\Lab9.2\Lab9.2.cpp(155,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.2\Lab9.2\Lab9.2.cpp(168,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.2\Lab9.2\Lab9.2.cpp(216,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.2\Lab9.2\Lab9.2.cpp(221,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.2\Lab9.2\Lab9.2.cpp(249,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.2\Lab9.2\Lab9.2.cpp(280,23): warning C4018: '<': signed/unsigned mismatch
+  Lab9.2.vcxproj -> C:\Users\Oleg\source\repos\Lab9.2\Debug\Lab9.2.exe
